@@ -1,0 +1,6 @@
+flask
+requests
+firebase-admin
+google-generativeai
+bs4
+gunicorn
